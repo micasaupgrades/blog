@@ -1,8 +1,19 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: MiCasa Blog
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-baseurl: /blog
+url: 
+baseurl: "/blog"
+paginate_path: "page:num/"
+permalink: :title/
 
-# Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+social:
+   github: 
+   twitter: 
+   facebook: 
+   email: 
+
+segment_analytics: ""
