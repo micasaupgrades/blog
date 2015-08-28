@@ -22,3 +22,13 @@ layout: default
     {% endif %}
   </div>
 </div>
+{% if site.segment_analytics %} {% include segment_analytics.html %} 
+  <script type="text/javascript">
+        analytics.page({
+            title: 'MiCasa Blog',
+            url: 'http://www.micasaupgrades.com/blog',
+            path: '/blog'
+        });
+  </script>
+
+{% endif %}
