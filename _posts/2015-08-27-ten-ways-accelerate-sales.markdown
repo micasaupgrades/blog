@@ -3,7 +3,7 @@ layout: post
 title:  "Ten Ways Home Upgrades Accelerate Home Sales & Increase Revenue"
 date:   2015-08-27
 ---
-<img src="{{ '/assets/img/couple.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/family.jpg' | prepend: site.baseurl }}" alt=""> 
 <p class="intro"><span class="dropcap">Y</span>ou’ve got homes to sell. And competition can be fierce. You’re looking for buyers that see the potential of a great home in a new community. With over a decade of working with home builders our team knows what motivates buyers and how upgrades can not only increase revenue but accelerate the sale of new homes. </p>
 
 Here are some of the top ways upgrades make an impact:
