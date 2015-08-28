@@ -36,4 +36,5 @@ Here are some of the top ways upgrades make an impact:
 
 <li><b>Give your buyers a gentle push</b> - by watching your buyers’ activity and give them a marketing push in the right direction.</li>
 </ol>
+
 And this is just the start. <a href="http://www.micasaupgrades.com/#/contact">Click here</a> to talk to a MiCasa Upgrades rep today to see our digital upgrades solution has worked for other home builders and helped them sell more homes and increase their revenue.
