@@ -39,4 +39,4 @@ At MiCasa, our builders and design centers interact with their homebuyers immedi
 	<li>100% within one week</li>
 </ul>
 
-<a href="http://www.micasaupgrades.com/#/contact">Tell me more</a> how to bring my upgrade sales to the digital age and get my buyers shopping right away! 
+<a href="http://www.micasaupgrades.com/#/contact">Tell me more</a> on how to bring my upgrade sales to the digital age and get my buyers shopping right away! 
