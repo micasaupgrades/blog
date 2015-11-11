@@ -972,6 +972,9 @@ dd {
     text-decoration: none
 }
 
+.post b {
+    color: #2e8b57;
+}
 .post .postTitle {
     text-align: center;
     margin-top: 2rem;
