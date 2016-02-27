@@ -19,6 +19,6 @@ While some of our builders use MiCasa Upgrades’ software, with physical sample
 	<li>It will help us sell more upgrades and make more money.</li>
 	<li>Our buyers were not seeing all upgrades available to them because there is only so much you can cover at design meetings.</li>
 </ol>
-<p>We were also surprised that the #4 reason was not at the top.  It really is all about the home buyer</p>
+<p>We were also surprised that the #4 reason was not at the top.  It really is all about the home buyer.</p>
 <br>
 <a href="http://www.micasaupgrades.com/#/contact">Tell me more</a> on how to bring my upgrade sales to the digital age! 
