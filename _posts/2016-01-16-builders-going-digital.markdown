@@ -3,7 +3,7 @@ layout: post
 title:  "Builders Are Going Digital to Sell Upgrades"
 date:   2016-01-16
 ---
-<img src="{{ '/assets/img/couple_designer.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/family.jpg' | prepend: site.baseurl }}" alt=""> 
 
 <p class="intro"><span class="dropcap">W</span>e are constantly asking our builder clients:  what advantages do you see in using an online program to bolster your upgrades sales?</p>  
 <p>
