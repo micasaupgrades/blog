@@ -11,4 +11,4 @@ date:   2016-05-18
 
 <img src="{{ '/assets/img/clicks_chart.png' | prepend: site.baseurl }}" alt=""> 
 
-<p>There is no more guess work. <a href="http://www.micasaupgrades.com/#/contact">Contact us today to discuss how we turn this data into upgrade sales.</a> Or email us here: <a href="mailto:info@micasaupgrades.com.com">info@micasaupgrades.com</a> to schedule a demo.</p>
+<p>There is no more guess work. <a href="http://www.micasaupgrades.com/#/contact">Contact us today to discuss how we turn this data into upgrade sales.</a> Or email us here: <a href="mailto:info@micasaupgrades.com">info@micasaupgrades.com</a> to schedule a demo.</p>
