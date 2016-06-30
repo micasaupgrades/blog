@@ -3,7 +3,7 @@ layout: post
 title:  "California’s Central Coast Welcomes a New Community"
 date:   2016-06-28
 ---
-<img src="{{ '/assets/img/celebrations.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/celebrations.png' | prepend: site.baseurl }}" alt=""> 
 
 <p class="intro"><span class="dropcap">H</span>omebuyers in California’s Central Coast, known for its laid back attitude and refreshingly cool climate, are embracing the addition of a new community.  Celebrations II, in Santa Maria, by Somis Investments has been met by homebuyers with open arms and it’s easy to see why (hint:  great design at reasonable prices).
 </p>  
